@@ -12,8 +12,8 @@ Resources for LEAP Cohort 10 and beyond. Feel free to make a pull request if you
 * [Github](#github)
 * [Software Development](#software-development)
 * [Visual Studio](#visual-studio)
-* [C#](#c#)
-* [C++](#c++)
+* [CSharp](#csharp)
+* [Cpp](#cpp)
 * [SQL](#sql)
 
 ## Git
@@ -33,12 +33,12 @@ Resources for LEAP Cohort 10 and beyond. Feel free to make a pull request if you
 
 * :books: [Visual Studio](https://mva.microsoft.com/en-US/training-courses/getting-started-with-visual-studio-2017-17798)
 
-## C#
+## CSharp
 
 * :books: [C# (i)](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949)
 * :books: [C# (ii)](https://mva.microsoft.com/en-us/training-courses/programming-in-c-jump-start-14254?l=j0iuozSfB_6900115888)
 
-## C++
+## Cpp
 
 * :books: [C++](https://mva.microsoft.com/en-us/training-courses/c-a-general-purpose-language-and-library-jump-start-8251?l=fVmOhQKy_5104984382)
 

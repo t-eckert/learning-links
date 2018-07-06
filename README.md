@@ -5,6 +5,7 @@ Resources for LEAP Cohort 10 and beyond. Feel free to make a pull request if you
 ## Tags
 
 * :books: From LEAP
+* :vhs: Videos
 
 ## Table of Contents
 
@@ -28,6 +29,7 @@ Resources for LEAP Cohort 10 and beyond. Feel free to make a pull request if you
 ## Software Development
 
 * :books: [Software Development](https://mva.microsoft.com/en-US/training-courses/software-development-fundamentals-8248?l=xiawPHKy_5104984382)
+* :vhs: [Code Refactoring: Learn Code Smells And Level Up Your Game! by Sandi Metz](https://www.youtube.com/watch?v=D4auWwMsEnY)
 
 ## Visual Studio
 

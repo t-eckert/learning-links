@@ -13,6 +13,7 @@ Resources for LEAP Cohort 10 and beyond. Feel free to make a pull request if you
 * [Github](#github)
 * [Software Development](#software-development)
 * [Visual Studio](#visual-studio)
+* [dotNet](#dotnet)
 * [CSharp](#csharp)
 * [Cpp](#cpp)
 * [SQL](#sql)
@@ -34,6 +35,10 @@ Resources for LEAP Cohort 10 and beyond. Feel free to make a pull request if you
 ## Visual Studio
 
 * :books: [Visual Studio](https://mva.microsoft.com/en-US/training-courses/getting-started-with-visual-studio-2017-17798)
+
+## dotNet
+
+* Repo: [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
 
 ## CSharp
 

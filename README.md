@@ -44,6 +44,7 @@ Resources for LEAP Cohort 10 and beyond. Feel free to make a pull request if you
 
 * :books: [C# (i)](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949)
 * :books: [C# (ii)](https://mva.microsoft.com/en-us/training-courses/programming-in-c-jump-start-14254?l=j0iuozSfB_6900115888)
+* :orange_book: [Head First C#](https://mehmetakifsonmez.files.wordpress.com/2013/12/head-first-c-a-learners-guide-to-real-world-programming-with-visual-c-and-net.pdf)
 
 ## Cpp
 

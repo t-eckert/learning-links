@@ -5,6 +5,7 @@ Resources for LEAP Cohort 10 and beyond. Feel free to make a pull request if you
 ## Tags
 
 * :books: From LEAP
+* :orange_book: Textbook
 * :vhs: Videos
 
 ## Table of Contents
@@ -32,7 +33,7 @@ Resources for LEAP Cohort 10 and beyond. Feel free to make a pull request if you
 
 * :books: [Software Development](https://mva.microsoft.com/en-US/training-courses/software-development-fundamentals-8248?l=xiawPHKy_5104984382)
 * :vhs: [Code Refactoring: Learn Code Smells And Level Up Your Game! by Sandi Metz](https://www.youtube.com/watch?v=D4auWwMsEnY)
-* [Free Software Dev Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+* :orange_book: [Free Software Dev Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
 ## Visual Studio
 
@@ -40,14 +41,14 @@ Resources for LEAP Cohort 10 and beyond. Feel free to make a pull request if you
 
 ## dotNet
 
-* Repo: [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
+* :minidisc: Repo: [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
 
 ## CSharp
 
-* [Design patterns](https://www.dofactory.com/net/design-patterns)
 * :books: [C# (i)](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949)
 * :books: [C# (ii)](https://mva.microsoft.com/en-us/training-courses/programming-in-c-jump-start-14254?l=j0iuozSfB_6900115888)
 * :orange_book: [Head First C#](https://mehmetakifsonmez.files.wordpress.com/2013/12/head-first-c-a-learners-guide-to-real-world-programming-with-visual-c-and-net.pdf)
+* :orange_book: [Design patterns](https://www.dofactory.com/net/design-patterns)
 
 ## Cpp
 

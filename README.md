@@ -7,6 +7,8 @@ Resources for LEAP Cohort 10 and beyond. Feel free to make a pull request if you
 * :books: From LEAP
 * :orange_book: Textbook
 * :vhs: Videos
+* :headphones: Podcasts
+* :minidisc: Code
 
 ## Table of Contents
 
@@ -42,6 +44,7 @@ Resources for LEAP Cohort 10 and beyond. Feel free to make a pull request if you
 ## dotNet
 
 * :minidisc: Repo: [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
+* :headphones: [.Net Rocks!](https://dotnetrocks.com/)
 
 ## CSharp
 

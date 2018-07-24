@@ -17,6 +17,7 @@ Resources for LEAP Cohort 10 and beyond. Feel free to make a pull request if you
 * [Software Development](#software-development)
 * [Visual Studio](#visual-studio)
 * [dotNet](#dotnet)
+* [XAML](#xaml)
 * [CSharp](#csharp)
 * [Cpp](#cpp)
 * [SQL](#sql)
@@ -45,6 +46,10 @@ Resources for LEAP Cohort 10 and beyond. Feel free to make a pull request if you
 
 * :minidisc: Repo: [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
 * :headphones: [.Net Rocks!](https://dotnetrocks.com/)
+
+## XAML
+
+* [XAML Overview Doc (Microsoft)](https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/xaml-overview-wpf)
 
 ## CSharp
 
